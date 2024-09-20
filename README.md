@@ -15,5 +15,5 @@ in order to access if the product (bank term deposit) would be (or not) subscrib
 
 After my analysis, my model performed well with an accuracy of 87%. Below is a plot of the top 10 most important features.
 
-![Feature Importance Plot]()
+![Feature Importance Plot](Feature%20Importance.png)
 
